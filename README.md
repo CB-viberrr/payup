@@ -2,7 +2,7 @@
 
 **Shared expenses that get split right, in any currency**
 
-**[Read the case study →](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/payup.md)** · [Live](https://www.yopayup.com)
+**[Read the case study →](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/payup.md)** · [Live](https://yopayup.com)
 
 [![PayUp](img/app-hero-framed.jpg)](https://github.com/CB-viberrr/portfolio/blob/main/case-studies/payup.md)
 
